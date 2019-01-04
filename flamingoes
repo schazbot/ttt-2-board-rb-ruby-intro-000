@@ -1,4 +1,2 @@
-answer= "flamboyance"
-answer1= "panic"
-answer3= "pod"
-puts "A group of flamingoes is called a #{answer1}."
+3.times { print "Oh hey there" }
+3.times {puts "Oh hey there"}
